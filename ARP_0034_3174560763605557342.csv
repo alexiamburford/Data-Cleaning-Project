@@ -1,0 +1,41 @@
+﻿Month_Year,Organization,Number_of_street_mediations_conducted_,Number_of_high_risk_individuals_receiving_outreach_case_services_,Number_of_hospital_interventions_conducted_,Number_of_high_risk_individuals_contacted_,Number_of_community_meetings__events_,Number_of_violence_reduction_campaigns_,Address,ZipCode,FID
+1/1/2024 12:00:00 AM,Smoketown,2,0,0,438,0,1,"800 S preston street louisville, ky 40203",40203,1
+2/1/2024 12:00:00 AM,Smoketown,0,0,0,376,3,1,"800 S preston street louisville, ky 40203",40203,2
+3/1/2024 12:00:00 AM,Smoketown,0,0,0,839,1,1,"800 S preston street louisville, ky 40203",40203,3
+1/1/2024 12:00:00 AM,Russell,1,0,0,312,0,0,"410 W Chestnut St, Louisville, KY 40202",40202,4
+2/1/2024 12:00:00 AM,Russell,5,0,0,318,0,1,"410 W Chestnut St, Louisville, KY 40202",40202,5
+3/1/2024 12:00:00 AM,Russell,2,0,0,293,0,0,"410 W Chestnut St, Louisville, KY 40202",40202,6
+1/1/2024 12:00:00 AM,Shawnee,2,0,0,60,0,0,"2500 Montgomery St, Louisville, KY 40212",40212,7
+2/1/2024 12:00:00 AM,Shawnee,1,5,0,141,2,0,"2500 Montgomery St, Louisville, KY 40212",40212,8
+3/1/2024 12:00:00 AM,Shawnee,4,1,0,88,2,0,"2500 Montgomery St, Louisville, KY 40212",40212,9
+1/1/2024 12:00:00 AM,California,0,0,0,142,0,1,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,10
+2/1/2024 12:00:00 AM,California,0,0,0,127,0,0,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,11
+3/1/2024 12:00:00 AM,California,3,0,0,88,0,0,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,12
+10/1/2023 12:00:00 AM,Smoketown,6,0,0,807,0,0,"800 S preston street louisville, ky 40203",40203,13
+11/1/2023 12:00:00 AM,Smoketown,8,0,0,730,0,0,"800 S preston street louisville, ky 40203",40203,14
+12/1/2023 12:00:00 AM,Smoketown,3,0,0,557,0,0,"800 S preston street louisville, ky 40203",40203,15
+10/1/2023 12:00:00 AM,Russell,3,0,0,189,2,0,"410 W Chestnut St, Louisville, KY 40202",40202,16
+11/1/2023 12:00:00 AM,Russell,0,0,0,132,0,0,"410 W Chestnut St, Louisville, KY 40202",40202,17
+12/1/2023 12:00:00 AM,Russell,0,0,0,288,0,1,"410 W Chestnut St, Louisville, KY 40202",40202,18
+10/1/2023 12:00:00 AM,Shawnee,0,0,0,0,0,0,"2500 Montgomery St, Louisville, KY 40212",40212,19
+11/1/2023 12:00:00 AM,Shawnee,0,0,0,23,0,0,"2500 Montgomery St, Louisville, KY 40212",40212,20
+12/1/2023 12:00:00 AM,Shawnee,0,0,0,96,0,1,"2500 Montgomery St, Louisville, KY 40212",40212,21
+10/1/2023 12:00:00 AM,California,3,0,0,62,0,0,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,22
+11/1/2023 12:00:00 AM,California,2,3,0,93,0,1,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,23
+12/1/2023 12:00:00 AM,California,2,2,0,145,0,1,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,24
+4/1/2024 12:00:00 AM,Smoketown,21,0,0,510,16,1,"800 S preston street louisville, ky 40203",40203,25
+5/1/2024 12:00:00 AM,Smoketown,26,0,0,1247,13,0,"800 S preston street louisville, ky 40203",40203,26
+6/1/2024 12:00:00 AM,Smoketown,7,40,0,527,13,0,"800 S preston street louisville, ky 40203",40203,27
+4/1/2024 12:00:00 AM,Russell,1,1,0,239,35,1,"410 W Chestnut St, Louisville, KY 40202",40202,28
+5/1/2024 12:00:00 AM,Russell,8,2,0,207,18,0,"410 W Chestnut St, Louisville, KY 40202",40202,29
+6/1/2024 12:00:00 AM,Russell,9,0,0,150,25,0,"410 W Chestnut St, Louisville, KY 40202",40202,30
+4/1/2024 12:00:00 AM,Shawnee,3,11,0,62,21,1,"2500 Montgomery St, Louisville, KY 40212",40212,31
+5/1/2024 12:00:00 AM,Shawnee,11,19,0,96,47,0,"2500 Montgomery St, Louisville, KY 40212",40212,32
+6/1/2024 12:00:00 AM,Shawnee,7,0,0,139,59,0,"2500 Montgomery St, Louisville, KY 40212",40212,33
+4/1/2024 12:00:00 AM,California,2,0,0,62,4,1,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,34
+5/1/2024 12:00:00 AM,California,19,1,0,66,6,0,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,35
+6/1/2024 12:00:00 AM,California,16,0,0,9,5,0,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,36
+7/1/2024 12:00:00 AM,Smoketown,16,0,0,278,18,1,"800 S preston street louisville, ky 40203",40203,37
+7/1/2024 12:00:00 AM,Russell,3,0,0,54,29,1,"410 W Chestnut St, Louisville, KY 40202",40202,38
+7/1/2024 12:00:00 AM,Shawnee,12,16,0,158,83,1,"2500 Montgomery St, Louisville, KY 40212",40212,39
+7/1/2024 12:00:00 AM,California,0,0,0,0,0,0,"1300 W Muhammad Ali Blvd, Louisville, KY 40203",40203,40
